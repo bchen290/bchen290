@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/bchen290/">Brian Chen</a>
+# <a href="https://bchen290.github.io/">Brian Chen</a>
 
 Android Development | Java | Python | HTML | CSS | JavaScript | Kotlin
 
